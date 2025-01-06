@@ -2,4 +2,4 @@
 
 Project-CiFAR-10 Images Classification Using CNNs
 
-#Keras, scikit, seaborn, python, pandas, numpy, matplotlib,Modelling, machine learning
+#machine learning, Keras, scikit, seaborn, python, pandas, numpy, matplotlib,Modelling, CNN's,Deep learning.
